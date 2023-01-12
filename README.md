@@ -10,6 +10,9 @@
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-866FD7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/a-ud/)
 
+## Achievements
+![](https://img.shields.io/github/stars/Andrej1405?style=social)
+
 <!--
 **Andrej1405/Andrej1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
